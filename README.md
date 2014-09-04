@@ -1,4 +1,4 @@
-sinatra-shohojp-ath
+sinatra-shohojpath
 ===================
 
 Codes for book Sinatra Shohojpath
